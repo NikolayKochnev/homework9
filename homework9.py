@@ -1,6 +1,6 @@
-def print_params(x, y):
-    print('params', x, y)
+def print_params(x):
+    print('Parametr :', x)
+    print('Parametr :', x)
 
-
-print_params(1, 2)
-print_params(2, 3)
+print_params(1)
+print_params(1)
